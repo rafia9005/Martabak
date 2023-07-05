@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+::-webkit-scrollbar{
+    display: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    background-color: #fbcec9;
+    scroll-behavior: smooth;
+}
+.container{
+    margin-top: 70px;
+    background-color: #fbcec9;
+    text-align: center;
+}
+.logo {
+   align-items: center;
+   justify-content: center;
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -30px;
+    margin-bottom: 10px;
+    background-color: rgb(236, 52, 52);
+    padding: 1px 10px;
+    box-shadow: 0px 0px 10px 10px rgb(238, 39, 39);
+}
+.logo h2{
+    color: rgb(92, 91, 91);
+    font-size: 25px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+ul{
+    padding-bottom: 10px;
+}
+ul li {
+    margin: 50px 10px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 550;
+    color: rgb(234, 233, 233);
+    border: 1px solid #b1b1b1;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0 0 #b02f2f;
+    background-color: rgb(236, 52, 52);
+    transition: all 0.5s ease;
+    letter-spacing: 3px;
+}
+.container ul li a:hover{
+    background-color: rgb(206, 48, 48);
+    transition:all 0.5s ease-in;
+    cursor: pointer;
+}
+.b1{
+    padding: 15px 15px;
+    font-weight: 600;
+}
+.b2{
+    padding: 15px 62px;
+    font-weight: 600;
+}
+.b3{
+    padding: 15px 60px;
+    font-weight: 600;
+}
+.b4{
+    padding: 15px 58px;
+    font-weight: 600;
+}
+.b5{
+    padding: 15px 29px;
+    font-weight: 600;
+}
+
+.b6{
+    padding: 15px 82px;
+    font-weight: 600;
+}
+
+.b7{
+    padding: 15px 38px;
+    font-weight: 600;
+}
+.footer{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.footer h1{
+    color: black;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+.footer a{
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.footer a:hover{
+    color: blue;
+}
