@@ -57,7 +57,7 @@ ul li a{
     box-shadow: 6px 6px rgb(204, 128, 100);
     background-color: #fff;
     transition: all 0.5s ease;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
   
 }
 .container ul li a:hover{
@@ -66,7 +66,7 @@ ul li a{
     cursor: pointer;
 }
 .b1{
-    padding: 15px 4px;
+    padding: 15px 2px;
     font-weight: 600;
 }
 .b2{

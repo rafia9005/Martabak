@@ -49,7 +49,7 @@ ul li {
 }
 ul li a{
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 550;
     color: rgb(92, 91, 91);
     border: 1px solid #b1b1b1;
@@ -57,7 +57,7 @@ ul li a{
     box-shadow: 6px 6px rgb(98, 182, 119);
     background-color: #fff;
     transition: all 0.5s ease;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 .container ul li a:hover{
     background-color: #e0e0e0;
@@ -65,7 +65,7 @@ ul li a{
     cursor: pointer;
 }
 .b1{
-    padding: 15px 8px;
+    padding: 15px 15px;
     font-weight: 600;
 }
 .b2{
@@ -81,15 +81,15 @@ ul li a{
     font-weight: 600;
 }
 .b5{
-    padding: 15px 21px;
+    padding: 15px 26px;
     font-weight: 600;
 }
 .b6{
-    padding: 15px 75px;
+    padding: 15px 72px;
     font-weight: 600;
 }
 .b7{
-    padding: 15px 30px;
+    padding: 15px 33px;
     font-weight: 600;
 }
 .b8{
